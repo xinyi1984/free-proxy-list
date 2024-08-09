@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks4://171.4.80.204:5678",
+    "proxy": "socks4://61.7.147.227:4145",
     "protocol": "socks4",
-    "ip": "171.4.80.204",
-    "port": 5678,
+    "ip": "61.7.147.227",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,9 +26,9 @@
     }
   },
   {
-    "proxy": "socks4://113.53.60.92:4153",
+    "proxy": "socks4://1.20.184.75:4153",
     "protocol": "socks4",
-    "ip": "113.53.60.92",
+    "ip": "1.20.184.75",
     "port": 4153,
     "https": false,
     "anonymity": "transparent",
