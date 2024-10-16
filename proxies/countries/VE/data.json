@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://67.43.236.20:19631",
-    "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 19631,
+    "proxy": "socks4://190.202.48.182:80",
+    "protocol": "socks4",
+    "ip": "190.202.48.182",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://72.10.160.90:1795",
+    "proxy": "http://72.10.164.178:17823",
     "protocol": "http",
-    "ip": "72.10.160.90",
-    "port": 1795,
+    "ip": "72.10.164.178",
+    "port": 17823,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,88 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:21799",
+    "proxy": "http://72.10.164.178:10149",
     "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 21799,
+    "ip": "72.10.164.178",
+    "port": 10149,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://45.181.226.154:999",
+    "protocol": "http",
+    "ip": "45.181.226.154",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.172:25863",
+    "protocol": "http",
+    "ip": "72.10.160.172",
+    "port": 25863,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:31873",
+    "protocol": "http",
+    "ip": "72.10.164.178",
+    "port": 31873,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:13519",
+    "protocol": "http",
+    "ip": "72.10.164.178",
+    "port": 13519,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:22183",
+    "protocol": "http",
+    "ip": "72.10.164.178",
+    "port": 22183,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.254:11333",
+    "protocol": "http",
+    "ip": "67.43.228.254",
+    "port": 11333,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

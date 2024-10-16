@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://67.43.227.227:19551",
+    "proxy": "http://72.10.160.93:31437",
     "protocol": "http",
-    "ip": "67.43.227.227",
-    "port": 19551,
+    "ip": "72.10.160.93",
+    "port": 31437,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,16 +13,29 @@
     }
   },
   {
-    "proxy": "http://8.213.34.58:3128",
+    "proxy": "http://67.43.227.226:17137",
     "protocol": "http",
-    "ip": "8.213.34.58",
-    "port": 3128,
+    "ip": "67.43.227.226",
+    "port": 17137,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SA",
-      "city": "Riyadh"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:14351",
+    "protocol": "http",
+    "ip": "67.43.236.20",
+    "port": 14351,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SA",
+      "city": "Unknown"
     }
   }
 ]

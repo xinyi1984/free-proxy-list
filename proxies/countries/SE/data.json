@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://66.206.15.147:8135",
+    "proxy": "http://147.45.74.178:3128",
     "protocol": "http",
-    "ip": "66.206.15.147",
-    "port": 8135,
+    "ip": "147.45.74.178",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -43,19 +43,6 @@
     "protocol": "http",
     "ip": "194.68.171.247",
     "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://147.45.73.176:8443",
-    "protocol": "http",
-    "ip": "147.45.73.176",
-    "port": 8443,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
