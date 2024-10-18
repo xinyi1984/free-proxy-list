@@ -1,8 +1,47 @@
 [
   {
-    "proxy": "socks4://130.255.160.60:39123",
-    "protocol": "socks4",
+    "proxy": "socks5://130.255.160.60:39123",
+    "protocol": "socks5",
     "ip": "130.255.160.60",
+    "port": 39123,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://45.82.13.227:1080",
+    "protocol": "socks5",
+    "ip": "45.82.13.227",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://212.83.138.192:26585",
+    "protocol": "socks5",
+    "ip": "212.83.138.192",
+    "port": 26585,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://185.139.155.155:39123",
+    "protocol": "socks4",
+    "ip": "185.139.155.155",
     "port": 39123,
     "https": false,
     "anonymity": "transparent",
@@ -52,9 +91,9 @@
     }
   },
   {
-    "proxy": "http://46.226.164.41:3128",
+    "proxy": "http://147.45.74.178:3128",
     "protocol": "http",
-    "ip": "46.226.164.41",
+    "ip": "147.45.74.178",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -62,19 +101,6 @@
     "geolocation": {
       "country": "SE",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://185.146.173.20:80",
-    "protocol": "http",
-    "ip": "185.146.173.20",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": ""
     }
   },
   {
@@ -101,6 +127,19 @@
     "geolocation": {
       "country": "SE",
       "city": "Stockholm"
+    }
+  },
+  {
+    "proxy": "http://185.146.173.20:80",
+    "protocol": "http",
+    "ip": "185.146.173.20",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": ""
     }
   },
   {
